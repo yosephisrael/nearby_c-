@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nearby", "Nearby.csproj", "{629E0696-61B1-48EC-904F-AF652B503E5B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "NearByHBooking", "..\NearByHBooking\NearByHBooking.vdproj", "{190E33FC-6B98-483B-BC82-E95A9281BBCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{629E0696-61B1-48EC-904F-AF652B503E5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629E0696-61B1-48EC-904F-AF652B503E5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629E0696-61B1-48EC-904F-AF652B503E5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629E0696-61B1-48EC-904F-AF652B503E5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{190E33FC-6B98-483B-BC82-E95A9281BBCB}.Debug|Any CPU.ActiveCfg = Debug
+		{190E33FC-6B98-483B-BC82-E95A9281BBCB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E750CBB-D5CE-4820-8CB8-43851443FBBF}
+	EndGlobalSection
+EndGlobal
